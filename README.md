@@ -16,6 +16,9 @@ Incase one doesn't prefer some credentials he or she can delete it.
 ~The python3.6
 ~The markdown.
 
+##Live link to site:
+https://jerrynabango.github.io/password-locker/
+
 ## License information.
 By using Password Locker App,you agree to the terms of service.Most of the source code for the app is available for free of charge under open source software license agreements.
 Be free to access any information you desire to know.
